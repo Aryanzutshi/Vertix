@@ -1,0 +1,19 @@
+{
+  "projectName": "zk-layer",
+  "outputDir": "./out",
+  "build": {
+    "inputDir": "./circuits",
+    "circuits": [
+      {
+        "cID": "payment",
+        "fileName": "payments.circom",
+        "compilationMode": "wasm"
+      },
+      {
+        "cID": "oracle",
+        "fileName": "oracle.circom",
+        "compilationMode": "wasm"
+      }
+    ]
+  }
+}
