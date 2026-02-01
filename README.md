@@ -250,3 +250,10 @@ MIT License
 Vertix aims to become the **default verification SDK** for the internet — enabling systems to **prove correctness instead of asking for trust**.
 
 ---
+Architecture 
+
+![artitecture](https://github.com/user-attachments/assets/ca2a3a88-b045-4cdd-bfbc-1ba2d98fd966)
+
+Flow chart
+<img width="1053" height="1378" alt="flow chart" src="https://github.com/user-attachments/assets/c5b47a26-7648-4c57-9676-c6914011f106" />
+
