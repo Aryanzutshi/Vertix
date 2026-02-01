@@ -250,4 +250,3 @@ MIT License
 Vertix aims to become the **default verification SDK** for the internet — enabling systems to **prove correctness instead of asking for trust**.
 
 ---
-Just say the word 🚀
